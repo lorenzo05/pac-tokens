@@ -1,0 +1,1 @@
+{ "name": "token-band", "version": "0.1.0", "description": "Shows context tokens, rate limits and cost above the prompt", "types": "./types/index.d.ts", "license": "MIT" }
