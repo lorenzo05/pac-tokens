@@ -32,8 +32,8 @@ test('the band shows the 5-hour and weekly usage left', async ($, on) => {
 
   for (const surface of ['terminal', 'desktop'] as const) {
     const ui = await $.ui.mount({ ...BAND, surface })
-    expect((await ui.find({ type: 'Text', text: /77% left/ }))?.text).toContain('77% left')
-    expect((await ui.find({ type: 'Text', text: /10% left/ }))?.text).toContain('10% left')
+    expect((await ui.find({ type: 'Text', text: /77% LEFT/ }))?.text).toContain('77% LEFT')
+    expect((await ui.find({ type: 'Text', text: /10% LEFT/ }))?.text).toContain('10% LEFT')
     await ui.unmount()
   }
 })

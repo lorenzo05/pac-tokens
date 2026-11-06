@@ -1,9 +1,13 @@
-# Usage left bar for Claude Code
+# PAC-TOKENS for Claude Code
 
-Shows how much of your Claude usage you have left, the 5-hour and weekly limits, right above the prompt in Claude Code:
+A Pac-Man game that plays itself right above the prompt in Claude Code, with how much of your Claude usage you have left (the 5-hour and weekly limits) underneath:
 
 ```
-5-hour: 77% left (resets in 2h 14m)   Weekly: 92% left (resets in 4d 6h)   [Hide]
+ 1UP    850   HIGH SCORE   2400
+╔════════════════════════════════════════╗
+║      ᗣ ᗣ    ·······ᗧ  ●········ᗣ··ᗣ····║
+╚════════════════════════════════════════╝
+ ᗧ ᗧ  🍒  5H 77% LEFT  2h14m  WEEK 92% LEFT  4d6h   [Hide]
 ```
 
 ## Install

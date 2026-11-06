@@ -1,1 +1,1 @@
-{ "name": "token-band", "version": "0.2.0", "description": "Shows your 5-hour and weekly usage left above the prompt", "types": "./types/index.d.ts", "license": "MIT" }
+{ "name": "token-band", "version": "0.3.0", "description": "A Pac-Man game that plays itself above the prompt and shows your 5-hour and weekly usage left", "types": "./types/index.d.ts", "license": "MIT" }

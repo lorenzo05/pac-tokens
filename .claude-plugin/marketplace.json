@@ -2,6 +2,6 @@
   "name": "pac-tokens",
   "owner": { "name": "lorenzo05" },
   "plugins": [
-    { "name": "token-band", "source": "./plugins/token-band", "description": "Shows your 5-hour and weekly usage left above the prompt" }
+    { "name": "token-band", "source": "./plugins/token-band", "description": "A Pac-Man game above the prompt that shows your 5-hour and weekly usage left" }
   ]
 }
