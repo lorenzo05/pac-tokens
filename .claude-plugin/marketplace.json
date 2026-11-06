@@ -2,6 +2,6 @@
   "name": "pac-tokens",
   "owner": { "name": "lorenzo05" },
   "plugins": [
-    { "name": "token-band", "source": "./plugins/token-band", "description": "PAC-TOKENS: a Pac-Man arcade that shows your Claude Code token usage, rate limits and cost" }
+    { "name": "token-band", "source": "./plugins/token-band", "description": "Shows your 5-hour and weekly usage left above the prompt" }
   ]
 }
